@@ -7,6 +7,7 @@
 - 🔭 I'm a new graduated from RBK.
 - 🌱 I’m currently looking for a job 🤣.
 - 🧒 I’m a young and passionate software engineer.
+- 👯 I’m looking to collaborate on open source.
 - 🥅 2021 Goals: learn new things and get some experience.
 - 📫 How to reach me omarchaouachi4@gmail.com.
 - ⚡ Fun fact: I love history and military tactics.
@@ -44,13 +45,12 @@
 ---
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="omar-chaouachi's GitHub Stats" src="https://github-readme-stats.omar-chaouachi.vercel.app/api?username=omar-chaouachi&show_icons=true&hide_border=true" />
-
 </details>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
-
+<details>
+  <summary>:zap: Most Used Languages</summary>
+</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://omar-chaouachi.herokuapp.com
 [facebook]: https://www.facebook.com/omar.chaouachi
 [instagram]: https://www.instagram.com/omarchaouachi
