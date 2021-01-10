@@ -46,11 +46,15 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 </details>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 </details>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://omar-chaouachi.herokuapp.com
 [facebook]: https://www.facebook.com/omar.chaouachi
 [instagram]: https://www.instagram.com/omarchaouachi
